@@ -46,6 +46,28 @@ Again, it's pure about the UI, so you don't have to implement any functionality 
 
 Feel free to be creative. Make it your own. Play with the styles and make your app attractive to use. Do however make sure to use the same style throughout your whole game. It should feel as a whole.
 
+### Step 5 - About Window
+
+Create a small about window that display some basic info about the game. How is it played, nice logo/image and some information about the developer (thats you btw).
+
+### Step 6 - Menu Screen
+
+Add a menu window to the application so the user can easily navigate between the different windows in the game.
+
+Example:
+
+![Menu Example 1](./img/menu_example.png)
+
+Or:
+
+![Menu Example 2](./img/menu_example_2.png)
+
+The following items should be available as a minimum (feel free to add others):
+
+* Start Game
+* About
+* Exit
+
 ### Where is the rest ?
 
 The rest of the assignment will follow in the next weeks.
